@@ -318,5 +318,8 @@ a{
 
     .btn{
         position: relative;
+        font-size: 10px;
+        font-family:"Inter";
+        font-weight: 400;
     }
    } 
