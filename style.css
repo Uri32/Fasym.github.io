@@ -250,13 +250,13 @@ h1{
 }
 /*css de carrusel*/
 .Carrusel{
-    position: relative;
+    position: absolute;
     height: 100%;
     background: #111;
     margin:0;
     padding: 0;
     min-height: 100vh;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
 }
