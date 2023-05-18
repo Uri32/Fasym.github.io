@@ -281,6 +281,14 @@ h1{
     height: 100%;
 }
 
+a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 10px;
+    text-decoration: none;
+}
+
 
 @media (max-width: 57.5em){
 /*@media  screen and (max-width: 480px)*/ 
