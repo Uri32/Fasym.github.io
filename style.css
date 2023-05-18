@@ -289,6 +289,15 @@ a{
     text-decoration: none;
 }
 
+.btn{
+    display: inline-block;
+    background-color: antiquewhite;
+    text-transform: uppercase;
+    color:#000000;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
 
 @media (max-width: 57.5em){
 /*@media  screen and (max-width: 480px)*/ 
@@ -304,6 +313,10 @@ a{
     }
 
     .Carrusel{
-        padding:0 100px ;
+        padding: 0 80px ;
+    }
+
+    .btn{
+        position: relative;
     }
    } 
